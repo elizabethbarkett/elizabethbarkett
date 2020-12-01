@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hux_keets](https://github.com/elizabethbarkett/elizabethbarkett/blob/main/hux_keets.png)
 
 <!--
 **elizabethbarkett/elizabethbarkett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
