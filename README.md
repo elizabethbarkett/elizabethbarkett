@@ -1,5 +1,5 @@
 <p align="center">
-  I specialize in creating poor ASCII art of my dogs and nonpythonic (readable) python, eating hummus and other human foods, breathing, and attributing my personality traits to common human activites. 
+  I specialize in creating poor ASCII art of my dogs and other things. 
 </p>
 
 <p align="center">
