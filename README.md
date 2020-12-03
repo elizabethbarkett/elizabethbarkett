@@ -1,4 +1,11 @@
-![Hux_keets](https://github.com/elizabethbarkett/elizabethbarkett/blob/main/hux_keets.png)
+<p align="center">
+  I specialize in creating poor ASCII art of my dogs and nonpythonic (readable) python, eating hummus and other human foods, breathing, and attributing my personality traits to common human activites. 
+</p>
+
+<p align="center">
+  <img width = "400" src="https://github.com/elizabethbarkett/elizabethbarkett/blob/main/hux_keets.png" />
+</p>
+
 
 <!--
 **elizabethbarkett/elizabethbarkett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
