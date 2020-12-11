@@ -2,9 +2,42 @@
   I specialize in creating poor ASCII art of my dogs and other things. 
 </p>
 
-<p align="center">
-  <img width = "400" src="https://github.com/elizabethbarkett/elizabethbarkett/blob/main/lol_you_thought_i_did_this_in_markdown.png" />
-</p>
+        __     ___
+       |_/`---'\_|                                     
+        |ô_ ô   /
+        /<> \   /
+       {_|___}  )
+          \    / \~~_______________
+           |         }           \_|
+           /                      \      
+           | |       \   |        |
+            \ \      }__-\       /
+             \-\-   /    |\__   |           
+              | |  |      \ \   \ 
+              | |  /       \ \   )
+             _| |  |      _|_/  /
+            (,,(,,,/     (,(,,,/
+
+                    HUXLEY
+                    
+         ,      ,,
+         |\    //|
+         |`\,_/| |
+        /, ,     | 
+      _/D  D     \
+     (0        /'|   
+      \___/  _/  |
+        U |     //\,,_______,__
+          //    //             \     ,     
+           // //                \   /|
+           ///            |      \,/ |
+           (/(      )__/__|     |\,,,/
+            \ \    /     | \_   |           
+            |  |  |       \ \   /
+            |_/|  |        | \ |
+            |  |\_|       _|_| | 
+           [,,[,,,/      [,[,,,/
+                     NIKITA
 
 
 <!--
